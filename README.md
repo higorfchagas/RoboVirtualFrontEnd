@@ -12,6 +12,11 @@ Respeitando as regras de negócios impostas, incluídas na api.
 3º Passo
 ![imagem3](https://user-images.githubusercontent.com/42949902/113318018-633ce280-92e6-11eb-8712-b3e15bd09c06.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------
+Também são representados os estados atuais na tela inicial.
+![image](https://user-images.githubusercontent.com/42949902/113318395-ce86b480-92e6-11eb-9e58-b6c4afabe3ce.png)
+
+
+
 # projetorobondd-front
 
 ## Project setup
